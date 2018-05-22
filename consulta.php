@@ -19,7 +19,9 @@ include_once("conexion.php");
 	}
 	
 ?>
-	
+	<button class="btn btn-primary">Listar usuarios</button>
+	<div id="usuarios">
+	</div>
 </body>
     
 <footer>
