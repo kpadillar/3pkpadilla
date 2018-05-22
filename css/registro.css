@@ -1,0 +1,19 @@
+body{
+ background-color:#f3e5f5;
+}
+
+h2{
+ color:#ff5252;
+}
+
+p{
+ color: #3949ab;
+}
+
+input{
+ border: #64ffda 2px solid;
+ margin: 10px;
+ padding: 5px;
+}
+
+
