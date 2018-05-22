@@ -38,10 +38,15 @@
 		<label>Direcci&oacuten:</label><input type="text" direccion="Direcci&oacuten" required> <br />
 		<label>Tel&eacutefono:</label><input type="text" telefono="tel&eacutefono" required> <br />
 		<label>Correo:</label> <input type="text" correo="correo" required> <br />
+	</form> <br />
 		
+	<h3><a href="consulta.php">Consulta los usuarios registrados</a></h3> <br />
+			
 </body>
 
 <footer>
+	<a href="creditos.php">Créditos</a> <br />
+	<a href="contacto.php">Contáctanos</a> <br />
 	<div class="fb-like" data-href="https://www.facebook.com/UNAM.MX.Oficial/" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
 </footer>
 </html>
